@@ -11,6 +11,8 @@ I am a **pre-training researcher on the dots.llm team at Xiaohongshu (RedNote)**
 
 My research centers on **LLM pre-training and mid-training** — including data selection and quality, multi-stage training strategies, large-scale data synthesis, and expanding the reasoning ability of foundation models.
 
+📫 **Email:** <zhangxuemiao@pku.edu.cn>
+
 Research Interests
 ======
 - Large Language Models
