@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "张学淼 | Xuemiao Zhang"   # TODO: 改成你想显示的站点标题
+title                    : "章学妙 | Xuemiao Zhang"
 title_separator          : "-"
-name                     : &name "张学淼 (Xuemiao Zhang)"   # TODO: 你的全名
-description              : &description "Xuemiao Zhang 的学术主页 · academic portfolio"   # TODO: 一句话站点简介
+name                     : &name "章学妙 (Xuemiao Zhang)"
+description              : &description "Xuemiao Zhang (章学妙) 的学术主页 · academic portfolio"   # TODO: 想改可改成更具体的一句话简介
 url                      : https://zhangxuemiao.github.io   # 你的 GitHub Pages 网址(用户名站点,勿改)
 baseurl                  : "" # 用户名站点无需子路径,保持空
 repository               : "zhangxuemiao/zhangxuemiao.github.io"
@@ -23,18 +23,18 @@ repository               : "zhangxuemiao/zhangxuemiao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"   # 头像:把你的照片放到 images/ 下并改成对应文件名
-  name             : "张学淼"   # TODO: 侧边栏显示的名字
+  name             : "章学妙"
   pronouns         : # 可留空,例如 "he/him"
-  bio              : "简短个人简介,一两句话"   # TODO
-  location         : "China"   # TODO: 所在城市/国家
-  employer         : "你的学校/院系"   # TODO
+  bio              : "LLM pre-training & mid-training @ Peking University"   # TODO: 可自行微调这句侧边栏简介
+  location         : "Beijing, China"
+  employer         : "Peking University"
   uri              : # 个人网址,可留空
   email            : "914136910@qq.com"   # TODO: 确认要公开的联系邮箱
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # TODO: 你的 Google Scholar 主页链接(有就填,没有留空)
+  googlescholar    : "https://scholar.google.com/citations?user=emm7yowAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # TODO: 你的 ORCID 链接
