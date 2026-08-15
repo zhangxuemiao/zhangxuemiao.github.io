@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"   # 头像:把你的照片放到 images/ 下并改成对应文件名
   name             : "章学妙"
   pronouns         : # 可留空,例如 "he/him"
-  bio              : "LLM pre-training & mid-training @ Peking University"   # TODO: 可自行微调这句侧边栏简介
+  bio              : "LLM pre-training researcher · dots.llm @ Xiaohongshu · Ph.D. from PKU"
   location         : "Beijing, China"
-  employer         : "Peking University"
+  employer         : "Xiaohongshu (dots.llm Team)"
   uri              : # 个人网址,可留空
-  email            : "914136910@qq.com"   # TODO: 确认要公开的联系邮箱
+  email            : "zhangxuemiao@pku.edu.cn"
 
   # Academic websites
   academia         : # URL

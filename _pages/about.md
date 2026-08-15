@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- TODO: 请核对下面这段自我介绍。我根据你的 Google Scholar 主页（单位、研究方向、论文）起草，
-     其中你的具体身份（如"博士生 / 硕士生 / 研究员"）我不确定，暂用中性表述，请改成准确说法。-->
+I am a **pre-training researcher on the dots.llm team at Xiaohongshu (RED)**, working on **large language models (LLMs)**. I received my **Ph.D. from [Peking University](https://www.pku.edu.cn/)**, and was previously a pre-training researcher on the **LongCat LLM team at Meituan**.
 
-I am a researcher at [Peking University](https://www.pku.edu.cn/), working on **large language models (LLMs)**. My research centers on **pre-training and mid-training** — including data selection and quality, multi-stage training strategies, large-scale data synthesis, and expanding the reasoning ability of foundation models.
-
-<!-- TODO: 补充一两句更个人化的介绍，例如：所在课题组/导师、入学年份、正在找的机会（实习/博士/教职）、兴趣等。 -->
+My research centers on **LLM pre-training and mid-training** — including data selection and quality, multi-stage training strategies, large-scale data synthesis, and expanding the reasoning ability of foundation models.
 
 Research Interests
 ======
