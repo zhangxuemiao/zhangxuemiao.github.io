@@ -39,8 +39,6 @@ Publications
 - [**LongCat-Flash-Omni Technical Report**]({{ site.baseurl }}/publication/2025-11-01-longcat-flash-omni). *arXiv:2511.00279, 2025.*
 - [**A Survey on LLM Mid-Training**]({{ site.baseurl }}/publication/2025-10-27-survey-llm-mid-training). *arXiv:2510.23081, 2025.*
 - [**LongCat-Flash-Thinking Technical Report**]({{ site.baseurl }}/publication/2025-09-23-longcat-flash-thinking). *arXiv:2509.18883, 2025.*
-- [**Distant Supervision for Relation Extraction via Retrieval-Based Neural Networks**]({{ site.baseurl }}/publication/2018-12-01-distant-supervision-retrieval). *IEEE ICCC 2018.*
-- [**Text Classification Model Based on Document Matrix Convolutional Neural Networks**]({{ site.baseurl }}/publication/2017-12-01-text-classification-cnn). *ICCAAI 2017.*
 
 See the [full publication list with summaries]({{ site.baseurl }}/publications/), or my [Google Scholar profile]({{ site.author.googlescholar }}).
 
