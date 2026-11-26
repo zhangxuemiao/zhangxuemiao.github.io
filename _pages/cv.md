@@ -15,7 +15,7 @@ Education
 
 Experience
 ======
-* Nov 2025–present: Pre-Training Researcher, **dots.llm** Team, Xiaohongshu (RedNote)
+* Present: Pre-Training Researcher, **dots.llm** Team, Xiaohongshu (RedNote)
   * Large language model pre-training and mid-training
   * Data selection, data quality, and large-scale data synthesis
 
