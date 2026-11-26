@@ -17,12 +17,11 @@ Education
 
 Experience
 ======
-<!-- TODO: 请补全起止年份 -->
-* 20XX–present: Pre-Training Researcher, **dots.llm** Team, Xiaohongshu (RedNote)
+* Nov 2025–present: Pre-Training Researcher, **dots.llm** Team, Xiaohongshu (RedNote)
   * Large language model pre-training and mid-training
   * Data selection, data quality, and large-scale data synthesis
 
-* 20XX–20XX: Pre-Training Researcher, **LongCat** LLM Team, Meituan
+* Jul 2023–Nov 2025: Pre-Training Researcher, **LongCat** LLM Team, Meituan
   * Contributed to the LongCat-Flash series of foundation models
 
 Research Interests
