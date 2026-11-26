@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **pre-training researcher on the dots.llm team at Xiaohongshu (RedNote)**, working on **large language models (LLMs)**. I received my **Ph.D. from [Peking University](https://www.pku.edu.cn/)**, and was previously a pre-training researcher on the **LongCat LLM team at Meituan**.
+I am a **pre-training researcher on the dots.llm team at Xiaohongshu (RedNote)**, working on **large language models (LLMs)**. I received my **Ph.D. in Software Engineering from [Peking University](https://www.pku.edu.cn/)**, and was previously a pre-training researcher on the **LongCat LLM team at Meituan**.
 
 My research centers on **LLM pre-training and mid-training** — including data selection and quality, multi-stage training strategies, large-scale data synthesis, and expanding the reasoning ability of foundation models.
 
