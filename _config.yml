@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "章学妙 | Xuemiao Zhang"
 title_separator          : "-"
 name                     : &name "章学妙 (Xuemiao Zhang)"
-description              : &description "Xuemiao Zhang (章学妙) 的学术主页 · academic portfolio"   # TODO: 想改可改成更具体的一句话简介
+description              : &description "Xuemiao Zhang (章学妙) — LLM pre-training researcher. Ph.D. from Peking University. Research on pre-training, mid-training, data synthesis, and reasoning."
 url                      : https://zhangxuemiao.github.io   # 你的 GitHub Pages 网址(用户名站点,勿改)
 baseurl                  : "" # 用户名站点无需子路径,保持空
 repository               : "zhangxuemiao/zhangxuemiao.github.io"
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=emm7yowAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # TODO: 你的 ORCID 链接
+  orcid            : # URL, e.g. https://orcid.org/0000-0000-0000-0000
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # 医学方向才填
@@ -179,6 +179,7 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -220,33 +221,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -254,15 +235,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -272,23 +244,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS

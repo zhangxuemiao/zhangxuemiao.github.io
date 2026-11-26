@@ -20,16 +20,15 @@ Research Interests
 
 Selected Publications
 ======
-<!-- TODO: 请核对以下条目（venue / 年份 / 作者顺序均取自 Google Scholar，可能有出入）。
-     完整列表建议之后填到 _publications/ 目录，会自动生成 Publications 页面。-->
-
-- **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data.** *Findings of ACL 2025.*
-- **FRAME: Boosting LLMs with a Four-Quadrant Multi-Stage Pretraining Strategy.** *Findings of ACL 2025.*
-- **Large-Scale Diverse Synthesis for Mid-Training.** *Findings of ACL 2026.*
 - **LinkQA: Synthesizing Diverse QA from Multiple Seeds Strongly Linked by Knowledge Points.** *ACL 2026.*
+- **Large-Scale Diverse Synthesis for Mid-Training.** *Findings of ACL 2026.*
 - **Expanding Reasoning Potential in Foundation Models by Learning Diverse Chains of Thought Patterns.** *ICLR 2026.*
-- **A Survey on LLM Mid-Training.** *arXiv preprint, 2025.*
+- **A Survey on LLM Mid-Training.** *arXiv:2510.23081, 2025.*
+- **FRAME: Boosting LLMs with a Four-Quadrant Multi-Stage Pretraining Strategy.** *Findings of ACL 2025.*
+- **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data.** *Findings of ACL 2025.*
 
-<!-- 完整发表列表见 Google Scholar（侧边栏链接）。 -->
+See the [full publication list]({{ site.baseurl }}/publications/), or my [Google Scholar profile]({{ site.author.googlescholar }}).
 
-<!-- TODO: 想要的其它板块可以加，例如 Education（教育经历）、Experience（实习/工作）、Awards、Contact 等。 -->
+Contact
+======
+Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
