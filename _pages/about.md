@@ -21,11 +21,13 @@ Research Interests
 Selected Publications
 ======
 - **LinkQA: Synthesizing Diverse QA from Multiple Seeds Strongly Linked by Knowledge Points.** *ACL 2026.*
-- **Large-Scale Diverse Synthesis for Mid-Training.** *Findings of ACL 2026.*
+- **Large-Scale Diverse Synthesis for Mid-Training.** *ACL 2026.*
 - **Expanding Reasoning Potential in Foundation Models by Learning Diverse Chains of Thought Patterns.** *ICLR 2026.*
 - **A Survey on LLM Mid-Training.** *arXiv:2510.23081, 2025.*
-- **FRAME: Boosting LLMs with a Four-Quadrant Multi-Stage Pretraining Strategy.** *Findings of ACL 2025.*
-- **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data.** *Findings of ACL 2025.*
+- **FIRE: Flexible Integration of Data Quality Ratings for Effective Pretraining.** *EMNLP 2025.*
+- **FRAME: Boosting LLMs with a Four-Quadrant Multi-Stage Pretraining Strategy.** *ACL 2025.*
+- **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data.** *ACL 2025.*
+- **Enhancing LLMs via High-Knowledge Data Selection.** *AAAI 2025.*
 
 See the [full publication list]({{ site.baseurl }}/publications/), or my [Google Scholar profile]({{ site.author.googlescholar }}).
 
