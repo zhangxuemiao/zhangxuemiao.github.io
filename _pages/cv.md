@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-<!-- TODO: 请补全起止年份；本科院校与专业待补 -->
-* Ph.D. in Software Engineering (工学博士), Peking University, 20XX–20XX
-* B.S., 20XX–20XX
+* Ph.D. in Software Engineering (工学博士), Peking University
 
 Experience
 ======
