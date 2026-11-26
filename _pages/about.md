@@ -18,18 +18,42 @@ Research Interests
 - Data selection, data quality, and large-scale data synthesis
 - Reasoning in foundation models
 
-Selected Publications
+Publications
 ======
-- **LinkQA: Synthesizing Diverse QA from Multiple Seeds Strongly Linked by Knowledge Points.** *ACL 2026.*
-- **Large-Scale Diverse Synthesis for Mid-Training.** *ACL 2026.*
-- **Expanding Reasoning Potential in Foundation Models by Learning Diverse Chains of Thought Patterns.** *ICLR 2026.*
-- **A Survey on LLM Mid-Training.** *arXiv:2510.23081, 2025.*
-- **FIRE: Flexible Integration of Data Quality Ratings for Effective Pretraining.** *EMNLP 2025.*
-- **FRAME: Boosting LLMs with a Four-Quadrant Multi-Stage Pretraining Strategy.** *ACL 2025.*
-- **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data.** *ACL 2025.*
-- **Enhancing LLMs via High-Knowledge Data Selection.** *AAAI 2025.*
 
-See the [full publication list]({{ site.baseurl }}/publications/), or my [Google Scholar profile]({{ site.author.googlescholar }}).
+CCF A
+------
+- [**Large-Scale Diverse Synthesis for Mid-Training**]({{ site.baseurl }}/publication/2026-08-02-large-scale-diverse-synthesis). *ACL 2026.*
+- [**LinkQA: Synthesizing Diverse QA from Multiple Seeds Strongly Linked by Knowledge Points**]({{ site.baseurl }}/publication/2026-08-01-linkqa). *ACL 2026.*
+- [**Expanding Reasoning Potential in Foundation Models by Learning Diverse Chains of Thought Patterns**]({{ site.baseurl }}/publication/2026-04-24-expanding-reasoning-potential). *ICLR 2026.*
+- [**FRAME: Boosting LLMs with a Four-Quadrant Multi-Stage Pretraining Strategy**]({{ site.baseurl }}/publication/2025-07-28-frame). *ACL 2025.*
+- [**Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**]({{ site.baseurl }}/publication/2025-07-27-preference-curriculum). *ACL 2025.*
+- [**Enhancing LLMs via High-Knowledge Data Selection**]({{ site.baseurl }}/publication/2025-02-25-high-knowledge-data-selection). *AAAI 2025.*
+- [**Adaptively Multi-Objective Adversarial Training for Dialogue Generation**]({{ site.baseurl }}/publication/2020-07-11-adversarial-dialogue). *IJCAI 2020.*
+
+CCF B
+------
+- [**FIRE: Flexible Integration of Data Quality Ratings for Effective Pretraining**]({{ site.baseurl }}/publication/2025-11-05-fire). *EMNLP 2025.*
+- [**Adaptive Semi-Supervised Learning from Stronger Augmentation Transformations of Discrete Text Information**]({{ site.baseurl }}/publication/2024-08-01-adaptive-ssl-discrete-text). *Knowledge and Information Systems, 66(8), 2024.*
+- [**Adaptively Multi-Objective Adversarial Training for Medical Image Report Generation**]({{ site.baseurl }}/publication/2023-12-07-multiobjective-medical-report). *IEEE BIBM 2023.*
+- [**Adaptive Semi-Supervised Learning from Stronger Augmented Transformations of Medical Texts**]({{ site.baseurl }}/publication/2023-12-06-adaptive-ssl-medical-texts). *IEEE BIBM 2023.*
+- [**Adversarial Training with Comprehensive Objective for Medical Image Report Generation**]({{ site.baseurl }}/publication/2023-12-05-adversarial-medical-report). *IEEE BIBM 2023.*
+- [**Learn with Noisy Data via Unsupervised Loss Correction for Weakly Supervised Reading Comprehension**]({{ site.baseurl }}/publication/2020-12-08-noisy-data-reading-comprehension). *COLING 2020.*
+
+CCF C
+------
+- [**Knowledge-Embodied Attention for Distantly Supervised Relation Extraction**]({{ site.baseurl }}/publication/2020-04-01-knowledge-embodied-attention). *Intelligent Data Analysis, 24(2), 2020.*
+- [**Knowledge-Aware and Retrieval-Based Models for Distantly Supervised Relation Extraction**]({{ site.baseurl }}/publication/2019-08-26-knowledge-aware-retrieval-relation-extraction). *PRICAI 2019, 148-161.*
+
+Others
+------
+- [**LongCat-Flash-Omni Technical Report**]({{ site.baseurl }}/publication/2025-11-01-longcat-flash-omni). *arXiv:2511.00279, 2025.*
+- [**A Survey on LLM Mid-Training**]({{ site.baseurl }}/publication/2025-10-27-survey-llm-mid-training). *arXiv:2510.23081, 2025.*
+- [**LongCat-Flash-Thinking Technical Report**]({{ site.baseurl }}/publication/2025-09-23-longcat-flash-thinking). *arXiv:2509.18883, 2025.*
+- [**Distant Supervision for Relation Extraction via Retrieval-Based Neural Networks**]({{ site.baseurl }}/publication/2018-12-01-distant-supervision-retrieval). *IEEE ICCC 2018.*
+- [**Text Classification Model Based on Document Matrix Convolutional Neural Networks**]({{ site.baseurl }}/publication/2017-12-01-text-classification-cnn). *ICCAAI 2017.*
+
+See the [full publication list with summaries]({{ site.baseurl }}/publications/), or my [Google Scholar profile]({{ site.author.googlescholar }}).
 
 Contact
 ======
